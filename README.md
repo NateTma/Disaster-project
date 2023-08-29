@@ -1,1 +1,1 @@
-# Disaster-project
+# Disaster-management-project Backend development using Nodejs, the whole project will present on another repo which will be linked here soon. For now this will only contain the Authentication and Authorization usnig Nodejs JWT and a demo blog page for testing.
